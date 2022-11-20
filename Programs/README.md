@@ -5,21 +5,21 @@ This repository contains a set of programs to become an expert in multiple areas
 The objective is to unite this areas in order to make a better future for everyone, especially for those in need.
 
 ---
-## **Completed Programs:**
+## Completed Programs:
 - _None_
 
-## **Programs in Development:**
+## Programs in Development:
 - _None_
 
-## **Future Programs:**
-- Business
+## Future Programs:
+- **Business**
     - ~ _Learning Purpose_ ~
     - _MBA Courses_
     - _Stocks & Market Flow_
     - _Blockchain Technology_
     - _Crypto, NFT & more_
 
-- Robotics
+- **Robotics**
     - ~ _Learning Purpose_ ~
     - _Robotic Operating System (ROS)_
     - _Design Softwares_
@@ -38,7 +38,7 @@ The objective is to unite this areas in order to make a better future for everyo
         v. _Estimation and Learning_
         vi. _Capstone_
 
-- Languages
+- **Languages**
     - _Programming Languages_
         - ~ _Learning Purpose_ ~
         - _Python_
@@ -51,7 +51,7 @@ The objective is to unite this areas in order to make a better future for everyo
         - _German_
         - _Mandarin_
 
-- AI & Algorithms
+- **AI & Algorithms**
     - ~ _Learning Purpose_ ~
     - _Algorithms I_
     - _Algorithms II_
@@ -59,14 +59,14 @@ The objective is to unite this areas in order to make a better future for everyo
     - _Neural Networks & Deep Learning_
     - _Encryption & Data Protection_
 
-- Data Analysis
+- **Data Analysis**
     - ~ _Learning Purpose_ ~
     - _Applications_
     - _Data Science with Python_
     - _Introduction to Computer Science_
     - _Computer Science: Algorithms, Theory & Machines_
 
-- Medicine
+- **Medicine**
     - ~ _Learning Purpose_ ~
     - _Anatomy_
     - _Assisted Mobility_
@@ -74,13 +74,13 @@ The objective is to unite this areas in order to make a better future for everyo
     - _Dr. AI_
     - _Surgery and Robotics Applications_
 
-- Physics
+- **Physics**
     - ~ _Learning Purpose_ ~
     - _Advanced Theoretical Physics_
     - _Particle Physics_
     - _Introdction to Particle Accelerators (NPAP MOOC)_
 
-- Electrical Engineering
+- **Electrical Engineering**
     - ~ _Learning Purpose_ ~
     - _Electrical Cricuits_
     - _Electrical Machines_
@@ -89,7 +89,7 @@ The objective is to unite this areas in order to make a better future for everyo
     - _Digital Systems_
     - _Interference & EMP_
 
-- Philosophy and Christianism
+- **Philosophy and Christianism**
     - ~ _Learning Purpose_ ~
     - _Important Dates_
     - _Introduction to Christianism_
