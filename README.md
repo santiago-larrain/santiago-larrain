@@ -1,5 +1,5 @@
-# Repositorio de Santiago Larraín
+# Santiago's Repository
 
-Usaré GitHub para publicar algunos códigos que me gusta hacer por entretención y a modo de tenerlos guardados en una nube para no perderlos.
+This is a highly advance repository, we will be learning new skills, building strong programs and researching in different science areas.
 
-Además acobo de aprender a usar esto y está bien entretenido.
+Proceed with caution.
