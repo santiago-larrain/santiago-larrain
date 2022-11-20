@@ -74,7 +74,7 @@ The objective is to unite this areas in order to make a better future for everyo
     - _Dr. AI_
     - _Surgery and Robotics Applications_
 
-- Physiscs
+- Physics
     - ~ _Learning Purpose_ ~
     - _Advanced Theoretical Physics_
     - _Particle Physics_
